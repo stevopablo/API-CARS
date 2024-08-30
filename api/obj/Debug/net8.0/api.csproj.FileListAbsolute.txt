@@ -98,3 +98,4 @@ C:\Users\steva\OneDrive\Área de Trabalho\project-api\api\obj\Debug\net8.0\refin
 C:\Users\steva\OneDrive\Área de Trabalho\project-api\api\obj\Debug\net8.0\api.pdb
 C:\Users\steva\OneDrive\Área de Trabalho\project-api\api\obj\Debug\net8.0\api.genruntimeconfig.cache
 C:\Users\steva\OneDrive\Área de Trabalho\project-api\api\obj\Debug\net8.0\ref\api.dll
+C:\Users\steva\OneDrive\Área de Trabalho\project-api\api\obj\Debug\net8.0\api.sourcelink.json
