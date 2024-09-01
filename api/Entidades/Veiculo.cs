@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Api.Entidades;
-public class Administrador
+public class Veiculo
 {
     // primary key
     [Key]
@@ -10,13 +10,13 @@ public class Administrador
     [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
     public int Id { get; set; } = default!;
     [Required]
-    [StringLength(255)]
+    [StringLength(50)]
 
-    public string Email { get; set; } = default!;
+    public string Nome { get; set; } = default!;
     [StringLength(50)]
     [Required]
-    public string Senha { get; set; } = default!;
+    public string Marca { get; set; } = default!;
     [StringLength(10)]
     [Required]
-    public string Perfil { get; set; } = default!;
+    public int Ano { get; set; } = default!;
 }

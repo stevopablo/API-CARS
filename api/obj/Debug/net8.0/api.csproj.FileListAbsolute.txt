@@ -99,3 +99,8 @@ C:\Users\steva\OneDrive\Área de Trabalho\project-api\api\obj\Debug\net8.0\api.p
 C:\Users\steva\OneDrive\Área de Trabalho\project-api\api\obj\Debug\net8.0\api.genruntimeconfig.cache
 C:\Users\steva\OneDrive\Área de Trabalho\project-api\api\obj\Debug\net8.0\ref\api.dll
 C:\Users\steva\OneDrive\Área de Trabalho\project-api\api\obj\Debug\net8.0\api.sourcelink.json
+C:\Users\steva\OneDrive\Área de Trabalho\project-api\api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\steva\OneDrive\Área de Trabalho\project-api\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\steva\OneDrive\Área de Trabalho\project-api\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\steva\OneDrive\Área de Trabalho\project-api\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\steva\OneDrive\Área de Trabalho\project-api\api\obj\Debug\net8.0\api.MvcApplicationPartsAssemblyInfo.cs
